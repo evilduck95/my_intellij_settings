@@ -1,0 +1,31 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="DefaultGradleProjectSettings">
+        <option name="isMigrated" value="true" />
+      </component>
+      <component name="GradleLocalSettings">
+        <option name="projectSyncType">
+          <map>
+            <entry key="$USER_HOME$/yodel/client-query-api" value="PREVIEW" />
+            <entry key="$USER_HOME$/yodel/client-service-api" value="PREVIEW" />
+            <entry key="$USER_HOME$/yodel/kafka" value="PREVIEW" />
+            <entry key="$USER_HOME$/yodel/kafka-admin-cli" value="PREVIEW" />
+            <entry key="$USER_HOME$/yodel/kafka-connect-configs" value="PREVIEW" />
+            <entry key="$USER_HOME$/yodel/kafka-connect-jdbc-deploy" value="PREVIEW" />
+            <entry key="$USER_HOME$/yodel/kafka-copy-to-retry" value="PREVIEW" />
+            <entry key="$USER_HOME$/yodel/load-balancer-health" value="PREVIEW" />
+            <entry key="$USER_HOME$/yodel/mars-parcel-feed" value="PREVIEW" />
+            <entry key="$USER_HOME$/yodel/sabre-employees-connector" value="PREVIEW" />
+            <entry key="$USER_HOME$/yodel/tour-data-processor" value="PREVIEW" />
+            <entry key="$USER_HOME$/yodel/yellow-pan-importer" value="PREVIEW" />
+          </map>
+        </option>
+      </component>
+      <component name="PropertiesComponent">
+        <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+        <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+      </component>
+    </defaultProject>
+  </component>
+</application>
