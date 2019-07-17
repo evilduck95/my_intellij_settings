@@ -4,7 +4,7 @@
     <property name="created">2019-04-25T08:45:17</property>
     <property name="ide">idea</property>
     <property name="ideVersion">2019.1.0.0</property>
-    <property name="modified">2019-06-05T13:15:41</property>
+    <property name="modified">2019-07-17T10:39:11</property>
     <property name="originalScheme">Material Darker</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.0" />
@@ -22,7 +22,7 @@
   </console-font>
   <console-font>
     <option name="EDITOR_FONT_NAME" value="Fira Code" />
-    <option name="EDITOR_FONT_SIZE" value="12" />
+    <option name="EDITOR_FONT_SIZE" value="16" />
   </console-font>
   <colors>
     <option name="ADDED_LINES_COLOR" value="c3e88d" />
@@ -688,7 +688,25 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
+    <option name="GHERKIN_KEYWORD">
+      <value>
+        <option name="FOREGROUND" value="1c9417" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
     <option name="GHERKIN_REGEXP_PARAMETER" baseAttributes="DEFAULT_PARAMETER" />
+    <option name="GHERKIN_TAG">
+      <value>
+        <option name="FOREGROUND" value="ff9500" />
+      </value>
+    </option>
+    <option name="GHERKIN_TEXT">
+      <value>
+        <option name="FOREGROUND" value="b8ff95" />
+        <option name="BACKGROUND" value="212121" />
+        <option name="EFFECT_TYPE" value="3" />
+      </value>
+    </option>
     <option name="GO_FUNCTION_PARAMETER">
       <value>
         <option name="FOREGROUND" value="f78c6c" />
