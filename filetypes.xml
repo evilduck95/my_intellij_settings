@@ -1,8 +1,9 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping ext="avsc" type="Avro™ IDL" />
+      <mapping ext="avsc" type="JSON" />
       <mapping ext="j2" type="JSON" />
+      <removed_mapping ext="avsc" approved="true" type="Avro™ IDL" />
     </extensionMap>
   </component>
 </application>
