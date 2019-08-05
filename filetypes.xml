@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping ext="avsc" type="JSON" />
       <mapping ext="j2" type="JSON" />
+      <mapping pattern="*.yaml.j2" type="YAML" />
       <removed_mapping ext="avsc" approved="true" type="Avro™ IDL" />
     </extensionMap>
   </component>
