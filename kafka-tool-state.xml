@@ -1,5 +1,7 @@
 <application>
   <component name="KafkaToolPersistentStateComponent">
-    <option name="avroPackagePrefix" value="uk" />
+    <option name="avroPackagePrefix" value="" />
+    <option name="bootstrapServers" value="localhost:32854" />
+    <option name="schemaRegistryUrl" value="http://localhost:32857" />
   </component>
 </application>
