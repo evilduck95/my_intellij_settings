@@ -6,8 +6,8 @@
       <mapping pattern="mars-contracts-source-value" type="JSHint" />
       <mapping pattern="*.client-addresses-value.avsc" type="JSON" />
       <mapping pattern="mars-contracts-source-value.avsc" type="JSON" />
-      <mapping ext="avsc" type="JSON" />
       <mapping ext="j2" type="JSON" />
+      <mapping ext="avsc" type="JSON" />
       <removed_mapping ext="cmd" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="bat" approved="true" type="PLAIN_TEXT" />
       <removed_mapping ext="log" approved="true" type="PLAIN_TEXT" />
